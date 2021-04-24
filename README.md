@@ -1,6 +1,4 @@
-# devquiz
-
-A new Flutter project.
+# DevQuiz from RocketSeat NLW
 
 ## Getting Started
 
